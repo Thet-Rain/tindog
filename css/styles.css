@@ -1,11 +1,4 @@
 
-
-
-#title
-{
-  background-color: #ff4c68;
-}
-
 h1
 {
   font-family: 'Montserrat-black', sans-serif;
@@ -73,6 +66,11 @@ p
 }
 
 /*title section*/
+
+#title
+{
+  background-color: #ff4c68;
+}
 
 .title
 {
